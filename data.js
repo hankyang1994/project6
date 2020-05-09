@@ -1,4 +1,3 @@
-//ew
 module.exports = function() {
   return {
     products: [
