@@ -1,5 +1,5 @@
 
-//a
+//b
 module.exports = function() {
   return {
     products: [
